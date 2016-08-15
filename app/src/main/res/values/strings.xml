@@ -10,6 +10,7 @@
     <string name="input_hint" translatable="false">FB</string>
     <string name="input_prefill"></string>
     <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="already_saved">This stock is already saved!</string>
     
     <!-- Widget Strings -->
     <string name="stock_widget">Today\'s Stock Widget</string>
